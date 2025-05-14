@@ -2,3 +2,4 @@ uvicorn
 redis
 motor
 python-dotenv
+celery
